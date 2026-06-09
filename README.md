@@ -7,6 +7,8 @@ The program can also algorithmically analyze a petri net on its boundedness by c
 
 More information about petri nets can be found at https://en.wikipedia.org/wiki/Petri_net.
 
+No generative AI was used during the making of this program.
+
 <img width="984" height="692" alt="petri" src="https://github.com/user-attachments/assets/f0733ca3-ce98-41cb-8e92-4af2346b41ce" />
 
 # Installation
